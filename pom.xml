@@ -6,6 +6,8 @@
     <modules>
         <module>core</module>
         <module>api.rest</module>
+        <module>repoaitory.mongodb</module>
+        <module>repository.mongodb</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
