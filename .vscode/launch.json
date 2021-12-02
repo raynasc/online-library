@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OnlineLibraryApplication<api.rest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.edu.ifce.lp2.OnlineLibraryApplication",
+            "projectName": "api.rest",
+            "args": ""
+        }
+    ]
+}
